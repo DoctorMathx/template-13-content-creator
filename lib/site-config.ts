@@ -17,7 +17,7 @@ export const siteConfig = {
   creator: {
     name: "Tobi Fatima",
     role: "Writer · podcaster · creative",
-    portrait: "/img/creator.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio: "I write the Sunday letter and host the You're Making It podcast. About 42,000 African creatives read or listen every week.",
     longBio: [
       "I have been writing on the internet since 2019 — first Twitter, then a blog nobody read, then the newsletter that changed everything.",

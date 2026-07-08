@@ -36,7 +36,7 @@ export default function AboutPage() {
         </div>
       </Section>
 
-      <div className="container-x"><div className="relative aspect-[21/9] rounded-3xl overflow-hidden bg-canvas border border-line"><Image src="/img/team-boardroom.png" alt="A working session" fill sizes="1200px" className="object-cover" /></div></div>
+      <div className="container-x"><div className="relative aspect-[21/9] rounded-3xl overflow-hidden bg-canvas border border-line"><Image src="/img/hero-scene.jpg" alt="A working session" fill sizes="1200px" className="object-cover" /></div></div>
 
       <Section tone="paper" pad="lg">
         <SectionHeader eyebrow="A short timeline" title="Six years of shipping." />
